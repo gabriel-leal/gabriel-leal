@@ -51,7 +51,7 @@ Atuo principalmente com **Angular, FastAPI, Python e MySQL**, além de Docker, C
 
 ## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/gabriel-leal-menezes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-leal-menezes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:gabrielealmenezes@gmail.com)
 
 ---
