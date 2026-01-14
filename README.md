@@ -42,8 +42,11 @@ Atuo principalmente com **Angular, FastAPI, Python e MySQL**, além de Docker, C
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabriel-leal&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabriel-leal&layout=compact&theme=tokyonight&hide_border=true" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriel-leal&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabriel-leal&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabriel-leal&theme=tokyonight)
 
 
 </div>
