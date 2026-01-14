@@ -3,7 +3,7 @@
 ## 👋 Olá! Seja bem-vindo ao meu GitHub
 
 Sou **Desenvolvedor Full Stack**, apaixonado por criar sistemas eficientes, escaláveis e bem estruturados.  
-Atuo principalmente com **Angular, FastAPI, Python e MySQL**, além de Docker e CI/CD.
+Atuo principalmente com **Angular, FastAPI, Python e MySQL**, além de Docker, CI/CD e AWS.
 
 📍 Brasil  
 🎓 Sistemas de Informação  
@@ -38,10 +38,6 @@ Atuo principalmente com **Angular, FastAPI, Python e MySQL**, além de Docker e 
 📦 **API FastAPI para upload e consulta de backups (.rar)**  
 📋 **Gerenciador de visitantes com paginação e filtros**  
 
-👉 Confira os repositórios fixados abaixo ⬇️
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -55,8 +51,8 @@ Atuo principalmente com **Angular, FastAPI, Python e MySQL**, além de Docker e 
 
 ## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/gabriel-leal-menezes)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:gabrielealmenezes@gmail.com)
 
 ---
 
