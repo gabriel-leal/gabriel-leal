@@ -31,12 +31,19 @@ Atuo principalmente com **Angular, FastAPI, Python e MySQL**, além de Docker, C
 
 ---
 
-## 📌 Projetos em Destaque
+## Projetos em Python / Backend
 
-🎟️ **Sistema de venda e validação de ingressos**  
-⛪ **Sistema administrativo para igrejas**  
-📦 **API FastAPI para upload e consulta de backups (.rar)**  
-📋 **Gerenciador de visitantes com paginação e filtros**  
+### 📌 API de Venda e Validação de Ingressos
+Stack: Python • FastAPI • MySQL • Docker  
+Descrição: API REST para venda e validação de ingressos, com autenticação e testes básicos.
+
+### 📌 Gerenciador de Visitantes
+Stack: Python • FastAPI • SQLAlchemy • Docker  
+Descrição: API com filtros, paginação e deploy pronto para VPS.
+
+### 📌 API de Upload e Consulta de Backups (.rar)
+Stack: Python • FastAPI • Uvicorn • Docker  
+Descrição: API para upload/consulta de backups, com endpoints seguros e deployável.
 
 ## 📊 Estatísticas do GitHub
 
